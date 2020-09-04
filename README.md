@@ -3,6 +3,6 @@
 
 # Link : https://xXxZAIDxXx.github.io/Funny-Game-built-with-JS/
  <p align="center"> 
-    <img src="https://github.com/xXxZAIDxXx/Funny-Game-built-with-JS/blob/master/root/images/mysimplegame.JPG?raw=true" alt="alternate text">
+    <img src="https://github.com/xXxZAIDxXx/Funny-quick-game-js/blob/master/images/mysimplegame.JPG?raw=true" alt="alternate text">
  </p>
 
